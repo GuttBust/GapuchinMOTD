@@ -1,8 +1,8 @@
  <color=#ff0000>WELCOME TO CAPUCHIN ALT WE ARE NOW ON OUR HALLOWEEN UPDATE SADLY NO HORROR IN MINES BUT I BROUGHT BACK 100 PLAYER LOBBYS</color>
 
 
- <color=#ff0000>DISCORD: discord.gg/capuchinalt</color>
+ <color=#5dff00>DISCORD: discord.gg/capuchinalt</color>
 
 
- <color=#ff0000>-NOAH</color>
+ <color=#e000ff>-NOAH</color>
 
