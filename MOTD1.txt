@@ -1,8 +1,8 @@
- <color=#e000ff>WELCOME TO CAPUCHIN ALT WE ARE NOW ON THE FALL UPDATE AND NOW WE HAVE DAVE!</color>
+ <color=#f000ff>WELCOME TO CAPUCHIN ALT WE ARE NOW ON THE NEW YEARS UPDATE AND LEVEL 2</color>
 
 
- <color=#e000ff>DISCORD: discord.gg/capuchinalt</color>
+ <color=#f000ff>DISCORD: discord.gg/capuchinalt</color>
 
 
- <color=#e000ff>-NOAH</color>
+ <color=#f000ff>-NOAH</color>
 
