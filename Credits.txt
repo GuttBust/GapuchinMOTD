@@ -1,1 +1,3 @@
-<color=#ff00ff>NOAH & METRO</color>
+SPOOL : OWNER
+WIND : OWNER
+NOAH : DEVELOPER
