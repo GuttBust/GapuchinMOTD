@@ -1,2 +1,2 @@
 <color=#fff900>NOAH : OWNER</color>
-<color=#fff900>RAIDIAL : OWNER</color>
+<color=#fff900>SOLIX : OWNER</color>
