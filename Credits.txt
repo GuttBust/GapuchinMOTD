@@ -2,4 +2,5 @@
 
 <color=#7000ff>SOLIX</color> HELPED WITH SOME CODING AND RUNS THE BACKEND
 
-<color=#ff0000>METRO</color> FUFU
+MOTD DONT WORK ATM
+https://discord.gg/57tb3GCwq8
