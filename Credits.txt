@@ -1,5 +1,5 @@
-NOAH MAKES THE UPDATES AND DOES A LITTLE BIT OF EVERYTHING
-RAIDIAL HELPS WITH SOME CODING AND RUNS THE BACKEND AND HE MAKES SOME TOOLS THAT WE USE
-METRO DOES MOST OF THE WORK ON THE EVENTS
-JRVR DOES SOME CODING
-LOST GAME PROTECTOR
+Noah - Lead developer, Makes the updates and does a little bit of everything
+Raidial - Runs the backend, Helps with some coding and he makes tools that we can use
+Metro - Does most of the work in the events
+Jrvr - Does some coding
+Lost - Game protector
